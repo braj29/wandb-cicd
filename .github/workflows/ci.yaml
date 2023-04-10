@@ -1,4 +1,4 @@
-name: Basic CI
+name: Basic CI-CD
 
 on: [pull_request]
 
